@@ -1,5 +1,5 @@
 {
-  "name": "rosnodejs",
+  "name": "rtr-rosnodejs",
   "version": "3.0.1",
   "description": "Native ROS for nodejs",
   "main": "dist/index.js",
