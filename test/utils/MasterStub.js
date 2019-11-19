@@ -1,4 +1,4 @@
-const xmlrpc = require('xmlrpc');
+const xmlrpc = require('node-xmlrpc');
 const EventEmitter = require('events').EventEmitter;
 
 class RosMasterStub extends EventEmitter {
